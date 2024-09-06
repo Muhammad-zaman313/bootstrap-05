@@ -1,0 +1,17 @@
+.container {
+    border: 5px solid #000;
+}
+
+.row {
+    border: 2px solid #ed9191;
+}
+.teal{
+    background: #47a9a9;
+
+}
+.gray{
+    background: #d8cbcb;
+}
+.green{
+    background: #92eb92;
+}

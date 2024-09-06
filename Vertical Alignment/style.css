@@ -1,0 +1,16 @@
+.container{
+    border: 5px solid #000;
+}
+.row{
+    border: 1px solid #e71c1c;
+    height: 400px;
+}
+.orange{
+    background: orange;
+}
+.blue{
+    background: blue;
+}
+.green{
+    background: greenyellow;
+}

@@ -1,0 +1,22 @@
+.container{
+    border: 1px solid #000;
+}
+.row{
+    border: 1px solid #db1313;
+}
+.row{
+    border: 1px solid #e71c1c;
+   
+}
+.orange{
+    background: orange;
+}
+.blue{
+    background: blue;
+}
+.green{
+    background: greenyellow;
+}
+.yellow{
+    background:yellow;
+}
