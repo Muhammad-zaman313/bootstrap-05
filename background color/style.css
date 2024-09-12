@@ -1,0 +1,7 @@
+.container{
+    border: 1px solid #000;
+}
+h1{
+    background:var(--red);
+    color: var(--white);
+}
